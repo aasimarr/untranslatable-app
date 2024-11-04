@@ -1,0 +1,373 @@
+[
+  {
+    "word": "Fernweh",
+    "language": "German",
+    "pronunciation": "[FEIRN-vey]",
+    "definition": "A longing for distant places; the desire to travel.",
+    "example": "Gazing at the atlas, she felt a deep sense of fernweh."
+  },
+  {
+    "word": "Komorebi",
+    "language": "Japanese",
+    "pronunciation": "[koh-moh-reh-bee]",
+    "definition": "Sunlight filtering through the leaves of trees.",
+    "example": "Walking through the forest, they enjoyed the komorebi."
+  },
+  {
+    "word": "Saudade",
+    "language": "Portuguese",
+    "pronunciation": "[sow-DAH-djee]",
+    "definition": "A deep emotional state of nostalgic or profound melancholic longing for something or someone.",
+    "example": "Listening to the old song filled him with saudade."
+  },
+  {
+    "word": "Wabi-Sabi",
+    "language": "Japanese",
+    "pronunciation": "[wah-bee sah-bee]",
+    "definition": "A world view centered on the acceptance of transience and imperfection.",
+    "example": "The cracked vase held a wabi-sabi beauty."
+  },
+  {
+    "word": "Gezellig",
+    "language": "Dutch",
+    "pronunciation": "[heh-SELL-ick]",
+    "definition": "A feeling of coziness, comfort, and friendliness.",
+    "example": "The café had a gezellig atmosphere."
+  },
+  {
+    "word": "Lagom",
+    "language": "Swedish",
+    "pronunciation": "[LAH-gum]",
+    "definition": "Not too little, not too much; just right.",
+    "example": "She added lagom sugar to her coffee."
+  },
+  {
+    "word": "Hygge",
+    "language": "Danish",
+    "pronunciation": "[HOO-guh]",
+    "definition": "A quality of coziness and comfortable conviviality.",
+    "example": "They embraced hygge during the cold winter nights."
+  },
+  {
+    "word": "Meraki",
+    "language": "Greek",
+    "pronunciation": "[may-RAH-kee]",
+    "definition": "To do something with soul, creativity, or love.",
+    "example": "She cooked the meal with meraki."
+  },
+  {
+    "word": "Ubuntu",
+    "language": "Zulu",
+    "pronunciation": "[oo-BOON-too]",
+    "definition": "The belief in a universal bond of sharing that connects all humanity.",
+    "example": "His acts of kindness reflected the spirit of ubuntu."
+  },
+  {
+    "word": "Sobremesa",
+    "language": "Spanish",
+    "pronunciation": "[so-breh-MEH-sah]",
+    "definition": "Time spent in conversation after a meal.",
+    "example": "They enjoyed a long sobremesa after dinner."
+  },
+  {
+    "word": "Gökotta",
+    "language": "Swedish",
+    "pronunciation": "[yur-KAWT-ah]",
+    "definition": "To wake up early to hear the first birds sing.",
+    "example": "They planned a gökotta for the next morning."
+  },
+  {
+    "word": "Flâneur",
+    "language": "French",
+    "pronunciation": "[flah-NEUR]",
+    "definition": "A person who strolls the city to experience it.",
+    "example": "He spent his afternoons as a flâneur in Paris."
+  },
+  {
+    "word": "Mamihlapinatapai",
+    "language": "Yaghan",
+    "pronunciation": "[mah-mee-lah-pee-nah-tah-pie]",
+    "definition": "A look shared by two people, each wishing the other would initiate something they both desire but are reluctant to start.",
+    "example": "Their eyes met in a moment of mamihlapinatapai."
+  },
+  {
+    "word": "Tingo",
+    "language": "Pascuense",
+    "pronunciation": "[TEEN-go]",
+    "definition": "To borrow items from a friend's house, one by one, until there's nothing left.",
+    "example": "He joked about his friend’s habit of tingo."
+  },
+  {
+    "word": "Kilig",
+    "language": "Tagalog",
+    "pronunciation": "[KEE-lig]",
+    "definition": "The feeling of butterflies in your stomach when something romantic happens.",
+    "example": "She felt kilig when he held her hand."
+  },
+  {
+    "word": "Jayus",
+    "language": "Indonesian",
+    "pronunciation": "[JAH-yus]",
+    "definition": "A joke so poorly told that one cannot help but laugh.",
+    "example": "His attempt at humor resulted in a jayus."
+  },
+  {
+    "word": "Schadenfreude",
+    "language": "German",
+    "pronunciation": "[SHAH-den-froy-duh]",
+    "definition": "Pleasure derived from another person's misfortune.",
+    "example": "He tried to hide his schadenfreude when his rival failed."
+  },
+  {
+    "word": "Tsundoku",
+    "language": "Japanese",
+    "pronunciation": "[tsoon-DOH-koo]",
+    "definition": "The habit of buying books and not reading them.",
+    "example": "Her shelves were a testament to tsundoku."
+  },
+  {
+    "word": "Uitwaaien",
+    "language": "Dutch",
+    "pronunciation": "[OUT-vye-en]",
+    "definition": "To take a break to clear one's head, often in the wind.",
+    "example": "She decided to uitwaaien after a stressful day."
+  },
+  {
+    "word": "Pochemuchka",
+    "language": "Russian",
+    "pronunciation": "[puh-cheh-MOOCH-kah]",
+    "definition": "A person who asks too many questions.",
+    "example": "The child's pochemuchka nature was endearing."
+  },
+  {
+    "word": "Resfeber",
+    "language": "Swedish",
+    "pronunciation": "[RESS-feh-ber]",
+    "definition": "The restless race of a traveler’s heart before the journey begins.",
+    "example": "He felt resfeber the night before his trip."
+  },
+  {
+    "word": "Cafuné",
+    "language": "Brazilian Portuguese",
+    "pronunciation": "[kah-foo-NEH]",
+    "definition": "The act of running your fingers through someone's hair.",
+    "example": "She found comfort in his gentle cafuné."
+  },
+  {
+    "word": "Ya’aburnee",
+    "language": "Arabic",
+    "pronunciation": "[yah-ah-bur-nay]",
+    "definition": "A declaration of one’s hope that they’ll die before someone else because of how unbearable it would be to live without them.",
+    "example": "Whispering ya’aburnee, they embraced tightly."
+  },
+  {
+    "word": "Gigil",
+    "language": "Tagalog",
+    "pronunciation": "[GHEE-gheel]",
+    "definition": "The irresistible urge to pinch or squeeze something cute.",
+    "example": "She felt gigil when she saw the puppy."
+  },
+  {
+    "word": "Desenrascanço",
+    "language": "Portuguese",
+    "pronunciation": "[deh-sen-RAHS-kahn-so]",
+    "definition": "The improvisation of a solution when time is running out.",
+    "example": "His desenrascanço saved the project."
+  },
+  {
+    "word": "Hiraeth",
+    "language": "Welsh",
+    "pronunciation": "[HEE-rye-th]",
+    "definition": "A homesickness for a home you can't return to or that never was.",
+    "example": "She felt hiraeth for her childhood memories."
+  },
+  {
+    "word": "Duende",
+    "language": "Spanish",
+    "pronunciation": "[doo-EN-day]",
+    "definition": "A quality of passion and inspiration.",
+    "example": "The dancer performed with such duende."
+  },
+  {
+    "word": "Forelsket",
+    "language": "Norwegian",
+    "pronunciation": "[foh-REL-sket]",
+    "definition": "The euphoria of falling in love.",
+    "example": "He was undeniably forelsket after their first date."
+  },
+  {
+    "word": "Sehnsucht",
+    "language": "German",
+    "pronunciation": "[ZANE-zoocht]",
+    "definition": "An intense longing for something far-off and indefinable.",
+    "example": "A sense of sehnsucht filled her thoughts."
+  },
+  {
+    "word": "Bakku-shan",
+    "language": "Japanese",
+    "pronunciation": "[BAH-koo-shahn]",
+    "definition": "A woman who appears beautiful from behind but not from the front.",
+    "example": "He realized she was a bakku-shan upon seeing her face."
+  },
+  {
+    "word": "Mångata",
+    "language": "Swedish",
+    "pronunciation": "[MOHN-gah-tah]",
+    "definition": "The road-like reflection of the moon on water.",
+    "example": "They sat silently, watching the mångata."
+  },
+  {
+    "word": "Toska",
+    "language": "Russian",
+    "pronunciation": "[TOHS-kah]",
+    "definition": "A deep spiritual anguish without a specific cause.",
+    "example": "He couldn't shake off the feeling of toska."
+  },
+  {
+    "word": "Kummerspeck",
+    "language": "German",
+    "pronunciation": "[KOOM-er-shpeck]",
+    "definition": "Excess weight gained from emotional overeating.",
+    "example": "After the breakup, he noticed some kummerspeck."
+  },
+  {
+    "word": "Backpfeifengesicht",
+    "language": "German",
+    "pronunciation": "[BAHK-fy-fen-ge-zicht]",
+    "definition": "A face in need of a punch.",
+    "example": "His arrogance gave him a backpfeifengesicht."
+  },
+  {
+    "word": "Koi No Yokan",
+    "language": "Japanese",
+    "pronunciation": "[KOY-noh YO-kan]",
+    "definition": "The sense upon first meeting someone that the two of you are going to fall in love.",
+    "example": "There was an undeniable koi no yokan between them."
+  },
+  {
+    "word": "Dor",
+    "language": "Romanian",
+    "pronunciation": "[dor]",
+    "definition": "The longing for someone or something, similar to 'saudade'.",
+    "example": "He felt dor for his distant homeland."
+  },
+  {
+    "word": "Iktsuarpok",
+    "language": "Inuit",
+    "pronunciation": "[eek-soo-ahr-pohk]",
+    "definition": "The feeling of anticipation that leads you to keep looking outside to see if someone is coming.",
+    "example": "She experienced iktsuarpok while waiting for her friend."
+  },
+  {
+    "word": "Friolero",
+    "language": "Spanish",
+    "pronunciation": "[free-oh-LEH-roh]",
+    "definition": "Someone who is especially sensitive to cold weather.",
+    "example": "Being a friolero, he always wore extra layers."
+  },
+  {
+    "word": "Utepils",
+    "language": "Norwegian",
+    "pronunciation": "[OOH-teh-pilz]",
+    "definition": "A beer enjoyed outside on a sunny day.",
+    "example": "They planned to have utepils after work."
+  },
+  {
+    "word": "Litost",
+    "language": "Czech",
+    "pronunciation": "[LEE-tost]",
+    "definition": "A state of torment created by the sudden sight of one's own misery.",
+    "example": "He felt litost when he saw his reflection."
+  },
+  {
+    "word": "Meriggiare",
+    "language": "Italian",
+    "pronunciation": "[meh-ree-JAH-reh]",
+    "definition": "To rest at noon in a shady spot.",
+    "example": "They decided to meriggiare under the olive trees."
+  },
+  {
+    "word": "Attaccabottoni",
+    "language": "Italian",
+    "pronunciation": "[at-tak-ka-BOT-toh-nee]",
+    "definition": "A person who corners you with long, tedious stories.",
+    "example": "He avoided the attaccabottoni at the party."
+  },
+  {
+    "word": "Nazlanmak",
+    "language": "Turkish",
+    "pronunciation": "[naz-LAN-mak]",
+    "definition": "Pretending reluctance or indifference when you actually want something.",
+    "example": "She was nazlanmak about the invitation."
+  },
+  {
+    "word": "Sobremorro",
+    "language": "Galician",
+    "pronunciation": "[so-breh-MOHR-roh]",
+    "definition": "A nap taken after a meal.",
+    "example": "He enjoyed a sobremorro after lunch."
+  },
+  {
+    "word": "Jijivisha",
+    "language": "Sanskrit",
+    "pronunciation": "[jee-jee-VEE-shah]",
+    "definition": "The intense desire to live and continue living.",
+    "example": "Her jijivisha inspired everyone around her."
+  },
+  {
+    "word": "Abbiocco",
+    "language": "Italian",
+    "pronunciation": "[ahb-BYOK-koh]",
+    "definition": "Drowsiness after eating a big meal.",
+    "example": "An afternoon abbiocco overtook him."
+  },
+  {
+    "word": "Waldeinsamkeit",
+    "language": "German",
+    "pronunciation": "[VALD-ine-zam-kite]",
+    "definition": "The feeling of being alone in the woods.",
+    "example": "She embraced the waldeinsamkeit during her hike."
+  },
+  {
+    "word": "Engentado",
+    "language": "Spanish",
+    "pronunciation": "[en-hen-TAH-doh]",
+    "definition": "Feeling uncomfortable in crowded places.",
+    "example": "He felt engentado at the festival."
+  },
+  {
+    "word": "Hyggelig",
+    "language": "Norwegian",
+    "pronunciation": "[HUE-geh-lig]",
+    "definition": "Pleasant, friendly, cozy.",
+    "example": "They had a hyggelig evening by the fire."
+  },
+  {
+    "word": "Mokita",
+    "language": "Kivila",
+    "pronunciation": "[moh-KEE-tah]",
+    "definition": "The truth everyone knows but agrees not to talk about.",
+    "example": "The family's financial troubles were mokita."
+  },
+  {
+    "word": "Samar",
+    "language": "Arabic",
+    "pronunciation": "[sah-MAR]",
+    "definition": "Staying up late after sunset talking with friends.",
+    "example": "They enjoyed samar under the starlit sky."
+  },
+  {
+    "word": "Tsundere",
+    "language": "Japanese",
+    "pronunciation": "[tsoon-deh-reh]",
+    "definition": "A person who is initially cold before gradually showing a warmer side.",
+    "example": "Her tsundere attitude intrigued him."
+  },
+  {
+    "word": "Razbliuto",
+    "language": "Russian",
+    "pronunciation": "[raz-blee-OO-toh]",
+    "definition": "The feeling a person has for someone they once loved but no longer do.",
+    "example": "He felt razbliuto when he saw his ex."
+  }
+]
